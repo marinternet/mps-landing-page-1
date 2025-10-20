@@ -345,3 +345,7 @@ background-color: var(--c-brand1);
 .social-icons a:hover {
     color: var(--c-brand-light);
 }
+
+#error-page {
+    background-color: var(--c-dark);
+}
