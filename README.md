@@ -2,4 +2,4 @@
 
 Mitra Persada Sejati Landing Page Laravel Development
 
-MPS Marine
+Mitra Persada Sejati Marine
